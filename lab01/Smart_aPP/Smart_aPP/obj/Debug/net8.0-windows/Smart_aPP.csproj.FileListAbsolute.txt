@@ -1,0 +1,16 @@
+C:\Users\Мухаммадамин\Desktop\ООАП 2 семак\Smart_aPP\Smart_aPP\obj\Debug\net8.0-windows\Smart_aPP.Form1.resources
+C:\Users\Мухаммадамин\Desktop\ООАП 2 семак\Smart_aPP\Smart_aPP\obj\Debug\net8.0-windows\Smart_aPP.csproj.GenerateResource.cache
+C:\Users\Мухаммадамин\Desktop\ООАП 2 семак\Smart_aPP\Smart_aPP\obj\Debug\net8.0-windows\Smart_aPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мухаммадамин\Desktop\ООАП 2 семак\Smart_aPP\Smart_aPP\obj\Debug\net8.0-windows\Smart_aPP.AssemblyInfoInputs.cache
+C:\Users\Мухаммадамин\Desktop\ООАП 2 семак\Smart_aPP\Smart_aPP\obj\Debug\net8.0-windows\Smart_aPP.AssemblyInfo.cs
+C:\Users\Мухаммадамин\Desktop\ООАП 2 семак\Smart_aPP\Smart_aPP\obj\Debug\net8.0-windows\Smart_aPP.csproj.CoreCompileInputs.cache
+C:\Users\Мухаммадамин\Desktop\ООАП 2 семак\Smart_aPP\Smart_aPP\bin\Debug\net8.0-windows\Smart_aPP.exe
+C:\Users\Мухаммадамин\Desktop\ООАП 2 семак\Smart_aPP\Smart_aPP\bin\Debug\net8.0-windows\Smart_aPP.deps.json
+C:\Users\Мухаммадамин\Desktop\ООАП 2 семак\Smart_aPP\Smart_aPP\bin\Debug\net8.0-windows\Smart_aPP.runtimeconfig.json
+C:\Users\Мухаммадамин\Desktop\ООАП 2 семак\Smart_aPP\Smart_aPP\bin\Debug\net8.0-windows\Smart_aPP.dll
+C:\Users\Мухаммадамин\Desktop\ООАП 2 семак\Smart_aPP\Smart_aPP\bin\Debug\net8.0-windows\Smart_aPP.pdb
+C:\Users\Мухаммадамин\Desktop\ООАП 2 семак\Smart_aPP\Smart_aPP\obj\Debug\net8.0-windows\Smart_aPP.dll
+C:\Users\Мухаммадамин\Desktop\ООАП 2 семак\Smart_aPP\Smart_aPP\obj\Debug\net8.0-windows\refint\Smart_aPP.dll
+C:\Users\Мухаммадамин\Desktop\ООАП 2 семак\Smart_aPP\Smart_aPP\obj\Debug\net8.0-windows\Smart_aPP.pdb
+C:\Users\Мухаммадамин\Desktop\ООАП 2 семак\Smart_aPP\Smart_aPP\obj\Debug\net8.0-windows\Smart_aPP.genruntimeconfig.cache
+C:\Users\Мухаммадамин\Desktop\ООАП 2 семак\Smart_aPP\Smart_aPP\obj\Debug\net8.0-windows\ref\Smart_aPP.dll
