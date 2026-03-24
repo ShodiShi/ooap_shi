@@ -1,0 +1,9 @@
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+obj/
+bin/
+*.user
+*.db
+*.opendb
