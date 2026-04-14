@@ -20,11 +20,11 @@
 ```python
 def play(self):
     if self.status == "stopped":
-        # начать с начала
+        
     elif self.status == "playing":
-        # уже играет, ничего не делать
+        
     elif self.status == "paused":
-        # возобновить с места паузы
+       
 ```
 
 Такой код трудно поддерживать — при добавлении нового состояния придётся вносить изменения в каждый метод. Это нарушает принцип открытости/закрытости (OCP).
@@ -43,7 +43,7 @@ def play(self):
 
 ```python
 def play(self):
-    self.state.play(self)  # делегируем текущему состоянию
+    self.state.play(self) 
 ```
 
 При необходимости сменить состояние — конкретный класс состояния сам вызывает `player.set_state(NewState())`. Никаких `if/elif` в `Player` больше нет.
