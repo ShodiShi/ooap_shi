@@ -1,0 +1,11 @@
+org\example\ui\MainController.class
+org\example\ui\MainController$NoteListCell.class
+org\example\repository\NoteRepository.class
+org\example\model\ImportRecord.class
+org\example\model\Note.class
+org\example\App.class
+org\example\repository\CategoryRepository.class
+org\example\db\DatabaseManager.class
+org\example\model\Category.class
+org\example\repository\ImportRepository.class
+org\example\service\ImportService.class
